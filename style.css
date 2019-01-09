@@ -1,0 +1,91 @@
+nav{
+    border-color: #006740;
+    border-top: 10px;
+}
+.main-nav__li {
+    vertical-align: bottom;
+}
+.header {
+    background-image: url(assets/images/banner1.jpg);
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5px;
+}
+.header__content {
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.829);
+    padding: 100px;
+    width: 600px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+}
+.header__button {
+background-color: transparent;
+color: white;
+}
+.rewards {
+    background-image: url(assets/images/stars2.png);
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5px;
+   
+}
+.rewards__content {
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.829);
+    padding: 100px;
+    width: 600px;
+    border-radius: 10px;
+    margin: auto;
+    display: block;
+    position: relative;
+    float: right;
+}
+.sabores {
+    background-image: url(assets/images/beans.png);
+    padding: 100px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 5px;
+    
+   
+}
+.sabores__content {
+    text-align: center;
+    background-color:rgba(0, 0, 0, 0.5);
+    color: rgba(255, 255, 255, 0.829);
+    padding: 100px;
+    width: 600px;
+    border-radius: 10px;
+    position: relative;
+    float: right;
+}
+.header__icon {
+    font-size: 3rem;
+}
+.rewards__icon {
+    font-size: 3rem;
+}
+.sabores__icon {
+    font-size: 3rem;
+}
+footer {
+    background-color: rgb(219, 219, 219);
+}
+
+.footer__rrss {
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+}
+
+.footer__logo {
+    display: block;
+    margin-left: 50%;
+    margin-right: 50%;
+}
